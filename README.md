@@ -1,2 +1,2 @@
-# colour
+# cntr 
 using git
